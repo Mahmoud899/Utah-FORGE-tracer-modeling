@@ -1,0 +1,83 @@
+Job ID: 23995946
+Array Task ID: 15
+Host: cpu-25-35
+CPUs: 56
+Repo root: /lustre/work/mabdella/Analytical_Modeling/GeothermicsPaper
+Start: Fri Apr 17 11:39:31 CDT 2026
+Python: /home/mabdella/miniforge3/envs/jupyternotebook/bin/python
+Python 3.13.5
+imports ok
+Shard 15: run_idx 961..1024 (64 runs)
+SLURM_CPUS_PER_TASK=56
+CPUS_PER_RUN=8
+MAX_PARALLEL_RUNS=7
+Output dir: two_components/outputs/phase_exploration_multinode/shards/shard_015
+[1/64] run=965 seed=1065 best_J=0.0341898 elapsed=7.9m eta=494.6m
+[2/64] run=967 seed=1067 best_J=0.0337688 elapsed=7.9m eta=243.9m
+[3/64] run=966 seed=1066 best_J=0.0317571 elapsed=7.9m eta=161.2m
+[4/64] run=964 seed=1064 best_J=0.032201 elapsed=8.0m eta=119.6m
+[5/64] run=962 seed=1062 best_J=0.0335681 elapsed=8.1m eta=95.3m
+[6/64] run=963 seed=1063 best_J=0.0331109 elapsed=8.1m eta=78.6m
+[7/64] run=961 seed=1061 best_J=0.0320781 elapsed=8.1m eta=66.2m
+[8/64] run=969 seed=1069 best_J=0.0336261 elapsed=15.8m eta=110.8m
+[9/64] run=968 seed=1068 best_J=0.0314949 elapsed=15.9m eta=97.3m
+[10/64] run=970 seed=1070 best_J=0.0311539 elapsed=15.9m eta=86.0m
+[11/64] run=973 seed=1073 best_J=0.0330681 elapsed=16.2m eta=78.1m
+[12/64] run=974 seed=1074 best_J=0.0330833 elapsed=16.2m eta=70.3m
+[13/64] run=972 seed=1072 best_J=0.0338764 elapsed=16.2m eta=63.7m
+[14/64] run=971 seed=1071 best_J=0.0350174 elapsed=16.4m eta=58.6m
+[15/64] run=977 seed=1077 best_J=0.0320902 elapsed=24.0m eta=78.2m
+[16/64] run=976 seed=1076 best_J=0.033511 elapsed=24.0m eta=72.0m
+[17/64] run=978 seed=1078 best_J=0.0321264 elapsed=24.3m eta=67.1m
+[18/64] run=980 seed=1080 best_J=0.03303 elapsed=24.3m eta=62.0m
+[19/64] run=975 seed=1075 best_J=0.0336037 elapsed=24.3m eta=57.5m
+[20/64] run=979 seed=1079 best_J=0.0325617 elapsed=24.3m eta=53.6m
+[21/64] run=981 seed=1081 best_J=0.0343059 elapsed=24.4m eta=50.0m
+[22/64] run=983 seed=1083 best_J=0.0314931 elapsed=32.1m eta=61.2m
+[23/64] run=982 seed=1082 best_J=0.0336019 elapsed=32.1m eta=57.2m
+[24/64] run=984 seed=1084 best_J=0.0333672 elapsed=32.3m eta=53.8m
+[25/64] run=987 seed=1087 best_J=0.0318149 elapsed=32.4m eta=50.5m
+[26/64] run=986 seed=1086 best_J=0.0331067 elapsed=32.5m eta=47.5m
+[27/64] run=988 seed=1088 best_J=0.0320092 elapsed=32.6m eta=44.7m
+[28/64] run=985 seed=1085 best_J=0.0327735 elapsed=32.7m eta=42.0m
+[29/64] run=990 seed=1090 best_J=0.0340223 elapsed=40.0m eta=48.3m
+[30/64] run=989 seed=1089 best_J=0.0350424 elapsed=40.3m eta=45.7m
+[31/64] run=991 seed=1091 best_J=0.0332706 elapsed=40.4m eta=43.0m
+[32/64] run=992 seed=1092 best_J=0.032615 elapsed=40.4m eta=40.4m
+[33/64] run=995 seed=1095 best_J=0.0335491 elapsed=40.6m eta=38.1m
+[34/64] run=993 seed=1093 best_J=0.0337584 elapsed=40.7m eta=36.0m
+[35/64] run=994 seed=1094 best_J=0.0353487 elapsed=40.9m eta=33.9m
+[36/64] run=996 seed=1096 best_J=0.0360477 elapsed=48.0m eta=37.3m
+[37/64] run=998 seed=1098 best_J=0.0332956 elapsed=48.5m eta=35.4m
+[38/64] run=997 seed=1097 best_J=0.0331961 elapsed=48.6m eta=33.3m
+[39/64] run=1000 seed=1100 best_J=0.0319055 elapsed=48.8m eta=31.3m
+[40/64] run=1001 seed=1101 best_J=0.0330491 elapsed=48.8m eta=29.3m
+[41/64] run=999 seed=1099 best_J=0.0327373 elapsed=48.9m eta=27.4m
+[42/64] run=1002 seed=1102 best_J=0.0353025 elapsed=49.1m eta=25.7m
+[43/64] run=1003 seed=1103 best_J=0.0351042 elapsed=56.1m eta=27.4m
+[44/64] run=1004 seed=1104 best_J=0.0324537 elapsed=56.5m eta=25.7m
+[45/64] run=1005 seed=1105 best_J=0.0342601 elapsed=56.7m eta=23.9m
+[46/64] run=1007 seed=1107 best_J=0.0329727 elapsed=56.8m eta=22.2m
+[47/64] run=1008 seed=1108 best_J=0.0325684 elapsed=57.0m eta=20.6m
+[48/64] run=1006 seed=1106 best_J=0.0327881 elapsed=57.0m eta=19.0m
+[49/64] run=1009 seed=1109 best_J=0.0330914 elapsed=57.2m eta=17.5m
+[50/64] run=1010 seed=1110 best_J=0.0319551 elapsed=64.3m eta=18.0m
+[51/64] run=1011 seed=1111 best_J=0.0319187 elapsed=64.7m eta=16.5m
+[52/64] run=1012 seed=1112 best_J=0.0330357 elapsed=64.7m eta=14.9m
+[53/64] run=1013 seed=1113 best_J=0.0320942 elapsed=64.9m eta=13.5m
+[54/64] run=1014 seed=1114 best_J=0.0333167 elapsed=64.9m eta=12.0m
+[55/64] run=1015 seed=1115 best_J=0.0328709 elapsed=65.2m eta=10.7m
+[56/64] run=1016 seed=1116 best_J=0.0329358 elapsed=65.2m eta=9.3m
+[57/64] run=1017 seed=1117 best_J=0.03394 elapsed=72.3m eta=8.9m
+[58/64] run=1019 seed=1119 best_J=0.032324 elapsed=72.8m eta=7.5m
+[59/64] run=1018 seed=1118 best_J=0.0338178 elapsed=72.8m eta=6.2m
+[60/64] run=1020 seed=1120 best_J=0.0334933 elapsed=72.9m eta=4.9m
+[61/64] run=1021 seed=1121 best_J=0.0331084 elapsed=72.9m eta=3.6m
+[62/64] run=1023 seed=1123 best_J=0.0339779 elapsed=73.2m eta=2.4m
+[63/64] run=1022 seed=1122 best_J=0.0313093 elapsed=73.3m eta=1.2m
+[64/64] run=1024 seed=1124 best_J=0.0343699 elapsed=79.6m eta=0.0m
+Shard 15 complete in 79.6 minutes
+End: Fri Apr 17 12:59:13 CDT 2026
+
+After all array tasks finish, merge the shards with:
+python -m two_components.exploration_phase_multinode merge-shards --mexp 1024 --output-dir two_components/outputs/phase_exploration_multinode

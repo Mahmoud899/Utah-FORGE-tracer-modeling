@@ -1,0 +1,8 @@
+{
+  "n_shards": 16,
+  "mexp": 1024,
+  "run_idx_min": 1,
+  "run_idx_max": 1024,
+  "best_J_min": 0.0311539013152597,
+  "best_J_max": 0.0360476821152831
+}

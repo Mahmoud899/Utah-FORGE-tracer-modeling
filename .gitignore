@@ -1,0 +1,42 @@
+# Files / folders to keep out of the public repo
+.cursor/
+CLAUDE.md
+PublicationFigureQuality.md
+
+# Python build / cache artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+.eggs/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual envs
+.venv/
+venv/
+env/
+.env
+.envrc
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Office / Excel temp files
+~$*.xlsx
+~$*.xls
+~$*.docx

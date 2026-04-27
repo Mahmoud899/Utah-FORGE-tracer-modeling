@@ -1,0 +1,16 @@
+Job ID: 23995695
+Host: cpu-26-12
+CPUs: 1
+Repo root: /lustre/work/mabdella/Analytical_Modeling/GeothermicsPaper
+Start: Fri Apr 17 08:43:27 CDT 2026
+Python: /home/mabdella/miniforge3/envs/jupyternotebook/bin/python
+Python 3.13.5
+imports ok
+Loaded ensemble rows: 1024
+J_min: 0.0226195
+Elite points: 1024 (EPS=0.5)
+Basins created: 12 (method=ward, n_basins=12)
+Wrote: two_components/outputs/phase_basin_identification/basins_summary.csv
+Wrote: two_components/outputs/phase_basin_identification/elite_assignments.csv
+Wrote: two_components/outputs/phase_basin_identification/elite_subset.csv
+End: Fri Apr 17 08:43:34 CDT 2026
